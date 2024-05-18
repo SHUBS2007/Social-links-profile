@@ -61,6 +61,5 @@ p{
     font-weight: 500;
     background-color:hsl(75, 94%, 57%);
     color: black;
-    box-shadow: 3px 4px 3px rgb(255, 255, 255);
     transition: 0.2s ease-in-out;
   }
